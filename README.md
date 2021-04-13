@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+My name is Alon Glaser, 
+I'm a junior Python programer.
