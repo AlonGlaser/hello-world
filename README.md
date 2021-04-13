@@ -1,3 +1,3 @@
 # hello-world
 My name is Alon Glaser, 
-I'm a junior Python programer
+I'm a junior Python programer.
